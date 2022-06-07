@@ -28,10 +28,15 @@
     <hr/>
 
      {% if form.errors %}
-      <div class="alert alert-danger">
-        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-        {{form.non_field_errors}}
-      </div>
+        <div class="alert alert-danger">
+          <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+          {{form.non_field_errors}}
+          Dados informados:<br>
+          E-mail: {{form.email.value}}<br>
+          Nome: {{form.nome.value}}<br>
+          Telefone: {{form.telefone.value}}<br>
+          Empresa: {{form.nome_empresa.value}}<br>
+        </div>
     {% endif %}
 
   </form>
