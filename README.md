@@ -4,7 +4,7 @@ Repositório criado para o projeto da disciplina de Programação para Internet 
 
 ## Tecnologias utilizadas 
 
-* Python 3
+* Python 3.7
 * Django 2.2
 * HTML
 * CSS
