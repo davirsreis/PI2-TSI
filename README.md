@@ -12,7 +12,7 @@ Repositório criado para o projeto da disciplina de Programação para Internet 
   
 ## Link da aplicação
 
-  [davirsreis.pythonanywhere.com](http://davirsreis.pythonanywhere.com/)
+  [http://davirsreis.pythonanywhere.com/](http://davirsreis.pythonanywhere.com/)
   
 ## Para executar 
   
