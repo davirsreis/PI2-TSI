@@ -2,6 +2,10 @@
 
 Repositório criado para o projeto da disciplina de Programação para Internet 2
 
+## Sobre
+
+Sistema Web com cadastro/login de usuários e uma conexão entre eles, como uma rede social
+
 ## Tecnologias utilizadas 
 
 * Python 3.7
@@ -9,6 +13,7 @@ Repositório criado para o projeto da disciplina de Programação para Internet 
 * HTML
 * CSS
 * Bootstrap
+* Pip
   
 ## Link da aplicação
 
