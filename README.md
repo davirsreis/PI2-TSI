@@ -21,3 +21,7 @@ Repositório criado para o projeto da disciplina de Programação para Internet 
 3. `python3 manage.py makemigrations`
 4. `python3 manage.py migrate`
 5. `python3 manage.py runserver`
+
+## Autores
+
+Davi Resende Silveira Reis
