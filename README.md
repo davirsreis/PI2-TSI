@@ -17,7 +17,7 @@ Sistema Web com cadastro/login de usuários e uma conexão entre eles, como uma 
   
 ## Link da aplicação
 
-  [http://davirsreis.pythonanywhere.com/](http://davirsreis.pythonanywhere.com/)
+  [](http://davirsreis.pythonanywhere.com/)
   
 ## Para executar 
   
